@@ -1,6 +1,7 @@
 h1 {
   font-family: "Kavoon";
   font-weight: 400;
-  text-shadow: 4px 4px 4px #aaa;
-  color: #885656;
+  text-shadow: 4px 4px 4px #524d4d;
+  color: rgb(240, 146, 146);
+  text-decoration-line: overline;
 }
